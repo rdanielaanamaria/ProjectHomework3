@@ -1,0 +1,15 @@
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.csproj.AssemblyReference.cache
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.AssemblyInfoInputs.cache
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.AssemblyInfo.cs
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.csproj.CoreCompileInputs.cache
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\bin\Debug\net6.0\ProjectHomework3.exe
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\bin\Debug\net6.0\ProjectHomework3.deps.json
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\bin\Debug\net6.0\ProjectHomework3.runtimeconfig.json
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\bin\Debug\net6.0\ProjectHomework3.dll
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\bin\Debug\net6.0\ProjectHomework3.pdb
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.dll
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\refint\ProjectHomework3.dll
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.pdb
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ProjectHomework3.genruntimeconfig.cache
+C:\Daniela\#C\Projects\ProjectHomework3\ProjectHomework3\obj\Debug\net6.0\ref\ProjectHomework3.dll
